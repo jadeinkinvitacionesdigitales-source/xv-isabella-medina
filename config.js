@@ -23,6 +23,6 @@ window.INVITACION = {
   // Carpeta de Google Drive para que los invitados suban sus fotos ("Cualquier persona con el enlace — Editor").
   // Vacío = el botón "SUBIR MIS FOTOS" queda oculto.
   drive: "",
-  // Opcional: canción de fondo, p. ej. "audio/cancion.mp3" (deja "" para ocultar el botón de música)
-  musica: ""
+  // Canción que suena desde que se toca el sello (deja "" para usar el sonido del video)
+  musica: "audio/disney.mp3"
 };
